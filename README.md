@@ -39,7 +39,7 @@ The trained model could successfully detect and segment objects in both training
 
 The outlines and labels were clearly visible on the output images.
 
-6. Conclusion
+4. Conclusion
 This project is a great example of how to build an object detection and segmentation model easily using YOLOv8.
 It is simple enough for beginners and useful for many real-world applications like:
 
